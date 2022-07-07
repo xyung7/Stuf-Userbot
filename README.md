@@ -2,30 +2,23 @@
 
 # Stuf
 
-Userbot ini di buat berdasarkan library [Pyrogram](https://github.com/pyrogram/pyrogram)
+Just another telegram userbot, written in Python using the [Pyrogram](https://github.com/pyrogram/pyrogram) library
 
-# Note
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xyung7/Stuf-Userbot)
 
-> Kami tidak bertanggung jawab dengan segala masalah terhadap akun anda, ketika anda sudah berniat mendeploy bot ini, berarti anda sudah siap dengan resikonya
+*How to run this bot*
 
-# Deploy on Heroku
-<details>
-<summary><b> 🚀 Heroku Deployment</b></summary>
-<br>
+- `git clone https://github.com/StufUB/Stuf-Userbot`
+- `cd Stuf-Userbot`
+- `pip3 install -r requirements.txt`
+- `python3 makesession.py` and put the session string in config.py
+- satisfy the values in `config.py`
+- `python3 -m Stuf`
 
-<h3 align="left">Klik Tombol di Bawah ini untuk Deploy di Heroku</h3>
-<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/xyung7/Stuf-Userbot"><img src="https://www.herokucdn.com/deploy/button.png" alt="Deploy to Heroku" target="_blank"/></a></p>
-
-### cumak catatan
-buat seneng2 aja 😁 [grup](https://t.me/stufgrup)
 # Credits
 
-# [Toni](https://github.com/Toni880) - Prime
- . [PrimeSupportGroup](https://t.me/PrimeSupportGroup)
-
-## Credits
-
 - [Pyrogram](https://github.com/pyrogram/pyrogram) - base
+- [Toni](https://github.com/Toni880) - Prime
 - [Atka](https://github.com/jokokendi) - Ice-Userbot
 - [ZectUserBot](https://github.com/SHRE-YANSH)
 - [TeamYukki](https://github.com/TeamYukki/YukkiMusicBot) - YukkiMusicBot
