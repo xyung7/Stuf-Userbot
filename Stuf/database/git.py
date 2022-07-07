@@ -68,4 +68,4 @@ def git():
         except GitCommandError:
             repo.git.reset("--hard", "FETCH_HEAD")
         install_req("pip3 install -U -r requirements.txt")
-        LOGGER(__name__).info("Fetched Updates from: Prime-Userbot")
+        LOGGER(__name__).info(f"Fetched Updates from: {REPO_LINK}")
