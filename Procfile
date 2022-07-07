@@ -1,1 +1,1 @@
-worker: python3 -m Prime
+worker: python3 -m Stuf
