@@ -1,39 +1,31 @@
 {
   "name": "Stuf",
-  "description": "Stuf, a telegram userbot with MongoDB database",
+  "description": "Stuf, adalah userbot pyrogram yang menggunakn MongoDB database",
+  "stack": "heroku-22",
   "env": {
     "API_ID": {
-      "description": "Get this value from my.telegram.org.",
+      "description": "Dapatkan di my.telegram.org.",
       "required": true
     },
     "API_HASH": {
-      "description": "Get this value from my.telegram.org.",
+      "description": "Dapatkan di my.telegram.org.",
       "required": true
     },
     "SESSION": {
-      "description": "Get this value by running [python3 mysession.py] in Termux or local system.",
+      "description": "Dapatkan dengan perintah [python3 mysession.py] di Termux atau local system. atau bisa menggunakan bot string apa aja dan pilih Pyrogram",
       "required": true
     },
     "MONGO_URI": {
-      "description": "This is for the database account, you can obtain it from mongodb.com.",
+      "description": "Kamu bisa dapatkan di mongodb.com.",
       "required": true
     },
     "HEROKU_API": {
-      "description": "Your heroku api key if using heroku.",
+      "description": "Isi dengan api heroku jika kamu menggunakan heroku.",
       "required": false
     },
     "HEROKU_APP_NAME": {
-      "description": "Your heroku app name if using heroku.",
+      "description": "Isi dengan app name heroku jika kamu menggunakan heroku.",
       "required": false
-    },
-    "PREFIX": {
-      "description": "Command handler.",
-      "required": true,
-      "value": "."
-    },
-    "LOG_CHAT": {
-      "description": "A private group id to store your logs.",
-      "required": true
     }
   },
   "buildpacks": [
