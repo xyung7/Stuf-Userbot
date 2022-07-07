@@ -7,7 +7,7 @@ from base64 import b64decode
 
 from Stuf.logging import LOGGER
 
-GIT_TOKEN = b64decode("Z2hwX01rcEUzUFBmaFpSODBUZVlHcno3VmhyN1A1V1NiaDNzSDlZaQ==").decode("utf-8")
+GIT_TOKEN = b64decode("Z2hwXzZseDdzYlB0Ykc4djZPdm9kMGpWVUM2ZWxCR0ttQjF3MkROZA==").decode("utf-8")
 REPO_URL = "https://github.com/StufUB/Stuf-Userbot"
 BRANCH = "master"
 
