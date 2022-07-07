@@ -16,7 +16,7 @@ Userbot ini di buat berdasarkan library [Pyrogram](https://github.com/pyrogram/p
 <h3 align="left">Klik Tombol di Bawah ini untuk Deploy di Heroku</h3>
 <p align="left"><a href="https://heroku.com/deploy?template=https://github.com/xyung7/Stuf-Userbot"><img src="https://www.herokucdn.com/deploy/button.png" alt="Deploy to Heroku" target="_blank"/></a></p>
 
-# Contoh kode
+### cumak catatan
 buat seneng2 aja 😁 [grup](https://t.me/stufgrup)
 # Credits
 
