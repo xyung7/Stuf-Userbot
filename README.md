@@ -41,12 +41,12 @@ async def terminal(client, message):
     
 ```
 
-## Credits
+# Credits
 
 # [Toni](https://github.com/Toni880) - Prime
  . [PrimeSupportGroup](https://t.me/PrimeSupportGroup)
 
-# Credits
+## Credits
 
 - [Pyrogram](https://github.com/pyrogram/pyrogram) - base
 - [Atka](https://github.com/jokokendi) - Ice-Userbot
