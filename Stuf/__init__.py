@@ -29,4 +29,3 @@ app = Client(
     name="Stuf",
     in_memory=True
 )
-
