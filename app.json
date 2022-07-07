@@ -1,6 +1,6 @@
 {
   "name": "Stuf",
-  "description": "Prime, a telegram userbot with MongoDB database",
+  "description": "Stuf, a telegram userbot with MongoDB database",
   "env": {
     "API_ID": {
       "description": "Get this value from my.telegram.org.",
