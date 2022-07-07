@@ -41,9 +41,10 @@ async def terminal(client, message):
     
 ```
 
-# Special thanks
+## Credits
 
-- [Toni](https://github.com/Toni880) - Prime
+# [Toni](https://github.com/Toni880) - Prime
+ . [PrimeSupportGroup](https://t.me/PrimeSupportGroup)
 
 # Credits
 
