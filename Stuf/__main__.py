@@ -26,7 +26,7 @@ print(
 try:
     if not str(LOG_CHAT).startswith("-100"):
         stuf = app.create_supergroup("Stuf-Logs", "Powered by : @stufgrup")
-        app.set_chat_photo(tai.id, photo="Stuf/dll/stuf.png")
+        app.set_chat_photo(stuf.id, photo="Stuf/dll/stuf.png")
         Heroku = heroku3.from_key(HEROKU_API)
         her = Heroku.app(HEROKU_APP_NAME)
         heroku_var = her.config()
