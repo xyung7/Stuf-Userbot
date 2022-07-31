@@ -8,7 +8,7 @@ Just another telegram userbot, written in Python using the [Pyrogram](https://gi
 
 *How to run this bot*
 
-- `git clone https://github.com/StufUB/Stuf-Userbot`
+- `git clone https://github.com/xyung7/Stuf-Userbot`
 - `cd Stuf-Userbot`
 - `pip3 install -r requirements.txt`
 - `python3 makesession.py` and put the session string in config.py
